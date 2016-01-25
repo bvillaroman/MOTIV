@@ -1,4 +1,3 @@
 # MOTIV
--------------------
 
-An app that inspires
+MOTIV : An app that inspires
